@@ -1,0 +1,34 @@
+[
+    {
+        "image" : "/img/products/item1.jpg",
+        "name" : "CROPPED JACKET WITH METAL BUTTONS",
+        "price" : "₹ 2,990.00",
+        "totalprice" : "₹ 2,990.00"
+    },
+
+
+    {
+        "image" : "/img/products/item5.jpg",
+        "name" : "STRAIGHT FIT JEANS",
+        "price" : " ₹ 1,800.00",
+        "totalprice" : " ₹ 1,800.00"
+    },
+ 
+
+    {
+        "image" : "/img/products2/10.jpg",
+        "name" : "GEOMETRIC JACQUARD KNIT POLO SHIRT",
+        "price" : "₹ 5,500.00",
+        "totalprice" : "₹ 5,500.00"
+    },
+
+    {
+        "image" : "/img/products2/9.jpg",
+        "name" : "TEXTURED SHIRT WITH POCKET",
+        "price" : " ₹ 5,090.00",
+        "totalprice" : " ₹ 5,090.00"
+    }
+
+
+
+]

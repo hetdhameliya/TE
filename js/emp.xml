@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<CATALOG>
+    <CD>
+        <TITLE>Empire Burlesque</TITLE>
+        <IMAGE>img/contact/pic1.avif</IMAGE>
+    </CD>
+    <CD>
+        <TITLE>Hide your heart</TITLE>
+        <IMAGE>images/hide_your_hearts.jpg</IMAGE>
+    </CD>
+</CATALOG>
